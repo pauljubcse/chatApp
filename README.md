@@ -1,0 +1,2 @@
+- Scaled Websockets using Redis Pub-Sub
+- Integrated Kafka Message Queues for Database Writes
